@@ -18,6 +18,6 @@ which were displayed in a histogram.
 ![WLD13_residual_pressures](https://user-images.githubusercontent.com/30641156/226086546-038cf344-53f3-4a38-a6d4-cf987f3605fa.png)
 
 Earlier generation with 109 fits compared and aligned appropriately (laser frequency drift
-was compesated in software)
+was compesated in software) and my atrocious choice of colors was remedied.
 
 ![109 FITS with histogram zoom](https://user-images.githubusercontent.com/30641156/226086610-ec63e779-4792-4302-afe3-14bcec82990c.png)
